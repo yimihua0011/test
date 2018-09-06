@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/home",
+    "pages/havedone/havedone",
+    "pages/needdone/needdone",
+    "pages/center/center"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "博元审批系统",
+    "navigationBarTextStyle":"black"
+  }
+}
